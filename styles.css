@@ -34,7 +34,7 @@ body{
   font-size: var(--normal-font-size);
   color: var(--text-color);
   background-color: var(--bg-color);
-  background: url('bg-desktop.webp');
+  background: url('azul.jpg');
 }
 
 li{
